@@ -1,0 +1,31 @@
+.logo {
+    height: 150px;
+    width: auto;
+    border: dotted;
+}
+
+.center {
+    display: block;
+    margin-left: 600px;
+    margin-right: auto;
+    width: 50%;
+}
+
+.flex {
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.outside-border {
+    border: solid;
+}
+
+.Main {
+    color: white;
+    background-color: black;
+}
+
+.section {
+    border: solid;
+}
